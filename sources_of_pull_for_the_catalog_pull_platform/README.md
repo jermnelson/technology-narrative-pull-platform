@@ -5,5 +5,5 @@
 
 ## Institutions
 
-## Alogrethms
+## Algorithms
 
