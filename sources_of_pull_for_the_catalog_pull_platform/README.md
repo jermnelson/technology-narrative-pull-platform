@@ -1,9 +1,4 @@
-# Sources of Pull for the Catalog Pull Platform
-
-## People
+# Pull Sources for the Catalog Pull Platform
 
 
-## Institutions
-
-## Algorithms
 

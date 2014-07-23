@@ -1,3 +1,3 @@
-# BIBFRAME and Schema.org Editors
+# BIBFRAME Linked Data Toolset
 
-The BIBFRAME web editor
+The development of the Catalog Pull Platform
