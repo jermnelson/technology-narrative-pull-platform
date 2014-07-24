@@ -8,7 +8,7 @@
 * [BIBFRAME Linked Data Toolset](bibframe/README.md)
    * [Converting MARC to BIBFRAME](bibframe/converting_marc_to_bibframe.md)
    * [BIBFRAME node.js web editor](bibframe/bibframe_nodejs_web_editor.md)
-* [ Schema.org Web Editor](semantic_server/README.md)
+* [ Schema.org Web Editor](schema_org/README.md)
 * [TIGER Catalog](tiger_catalog/README.md)
 * [The Catalog Pull Platform at Local, Regional, National, and Global Scales](local_regional_nationally_and_global_scales/README.md)
    * [Producer and Consumer of Local Linked Data](local_regional_nationally_and_global_scales/producer_and_consumer_of_local_linked_data.md)
