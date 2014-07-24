@@ -1,2 +1,2 @@
 # People
-People, be they patrons, librarians, staff, volunteers, or the general public, is the first and most important pull source for the Catalog Pull Platform.
+People - patrons, librarians, staff, software developers, administration, volunteers, or the general public - are the most important pull source for the Catalog Pull Platform. The library's patrons, divided into cohorts by characteristics, roles, or preferences, start with specific requests and requirements based on various communication channels between the network of participants within the Catalog Pull Platforms. These people's stories, their interests, and time are the precious assets that need to optimized.
