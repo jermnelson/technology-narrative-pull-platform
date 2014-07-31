@@ -1,6 +1,8 @@
 # Summary
 
-* [Brown's and Seely's Pull Platform](brown_and_seely_pull_platform/README.md)
+* [What is a Pull Platform?](what-is-a-pull-platform/README.md)
+   * [Vanity and Actionable Metrics ](what-is-a-pull-platform/vanity_and_actionable_metrics.md)
+   * [Technological Narrative of the Catalog Pull Platform](what-is-a-pull-platform/technological_narrative_of_the_catalog_pull_platform.md)
 * [Sources of Pull for the Catalog Pull Platform](sources_of_pull_for_the_catalog_pull_platform/README.md)
    * [People](sources_of_pull_for_the_catalog_pull_platform/people.md)
    * [Institutions](sources_of_pull_for_the_catalog_pull_platform/institutions.md)

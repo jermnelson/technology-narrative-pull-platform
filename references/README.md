@@ -5,6 +5,8 @@ Bibliography: Breeding, M. 2012.
 
 Bibliography: Hagel, J. Brown, J
 
+Bibliography: Hagel, J. 2012. Pull Platforms for Performance. Accessed at <http://edgeperspectives.typepad.com/edge_perspectives/2012/02/pull-platforms-for-performance.html>
+
 Bibliography: Ries, E. 2011. The Lean Startup. New York (NY): Crown Business. p. 294.
 
 
