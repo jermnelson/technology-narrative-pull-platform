@@ -3,14 +3,11 @@ People - patrons, librarians, staff, software developers, administration, volunt
 
 The Code4Lib listserv is a classic example of how decentralized problem-solving and help connects diverse participants that often have similar problems.
 
-## Patron Relationship Management
+## Patron Relationship Management and Development
 Translating John Hegel's customer relationship management (Hagel, 2012) to one that fits the library's status as a non-profit, is what I describe as patron relationship management. As part of the college,
 
 Hagel's original Formula
 [(Profit generated per year) x (years of relationship)] - cost of customer acquisition
-
-
-[(Profit generated per year) x (year of relationship)] - cost of customer acquisition.
 
 Years of relationship varies on the patron cohort. For undergraduate students, the hope is four years but it could be for longer depending on the graduation rate. Other academic library patron cohort
 

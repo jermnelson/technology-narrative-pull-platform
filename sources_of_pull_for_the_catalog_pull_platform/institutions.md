@@ -1,5 +1,5 @@
 # Institutions
-Libraries certainly do not operate in a vacuum but are constantly being asked for resources, services, and information from internal and external organizations.
+Libraries certainly do not operate in a vacuum but are constantly being asked for resources, services, and information from internal and external organizations. Often it is in the attempt to justify budgets, people, or even continued relevance to the larger insitution or governmental bodies.
 
 At Colorado College, the library - beside being an integral part of a larger institution of higher education - also have budgetary, human resource, information technology, and reporting responsibilities to support the scholarship of faculty, staff, and most importantly students. , all have information, resource, and service needs that drive the organization and development of the Catalog Pull Platform.
 
@@ -11,4 +11,4 @@ Larger research intuitions participate in the LibQual surveys along with more sp
 
 Hagel's product innovation and commercialization
 
-[(Profit generated per year) x (years of market life)] – cost of developing the product
+[(Profit generated per year) x (years of market life)] - cost of developing the product
