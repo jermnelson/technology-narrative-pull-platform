@@ -1,2 +1,0 @@
-# Producer and Consumer of Local Linked Data
-The [TIGER](http://catalog.coloradocollege.edu/) catalog is the iterative development service point that produces BIBFRAME and Schema.org descriptive RDF graphs of Colorado College's intellectual and culture artifacts being purchased, created, remixed, or donated. Part of the ingestion workflow of converting MARC21 records to BIBFRAME graphs leverages various local and national authority bodies like the Library of Congress, OCLC, DBPedia, and other Linked Data sources.

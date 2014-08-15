@@ -19,7 +19,8 @@ article = Flask(__name__)
 
 @article.route("/")
 def index():
-    raw_article = open('README.md').read()
+    ## raw_article = open('README.md').read()
+    raw_article = ''
     summary = open('SUMMARY.md').read()
     for row in summary.splitlines():
         result = filepath_re.search(row)

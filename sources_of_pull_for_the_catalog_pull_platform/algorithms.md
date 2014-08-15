@@ -1,10 +1,6 @@
-# Algorithms
-Deliberately differentiating pull sources from institutions into two parts; the more general institutional requirements from the specific requirements that software services by those institutions. For example, the importance of exposing a library's collections to Google and other search engines might be pulled from Google but as a source for algorithmic demands for their search engine harvesters.
+### Algorithms
+Why does the catalog pull platform deliberately differentiate pull sources from institutions into two parts; the more general institutional requirements from the specific requirements that software services by those institutions? For example, the importance of exposing a library's collections to Google and other search engines might be pulled from Google but as a source for algorithmic demands for their search engine harvesters.
 
-OCLC's web services are another example of algorithmic source of pull to the Catalog Pull Platform that is distinct from the other demands that OCLC may have from the library's catalog.
+OCLC's web services are another example of algorithmic source of pull to the Catalog Pull Platform that is distinct from the other demands that OCLC may have from the library's catalog. While the
 
-## Collection Infrastructure Operations
-
-[(Profit generated per year) x (years of asset operation)] - cost of building/acquiring asset.
-
-How can library's response and see how supporting commercial, open source, governmental, and non-profit technology demands that are just starting to be defined in a coherent, algorithmic way starting with XML and SOAP interfaces that have now moved towards REST web services using JSON as low level descriptive and data transport structures.
+How can libraries respond and support these different commercial, open source, governmental, and non-profit technology demands for use of the library's collection data? Libraries and vendor technologies are  just starting to be defined in coherent and algorithmic ways starting with XML and SOAP interfaces that have now moved towards REST web services using JSON as low level descriptive and data transport structures. Other examples of algorithmic pull sources for libraries that originate in the commercial sector are such things as providing [schema.org](http://schema.org) embedded microdata on public web interfaces of the library's collection along with sitemaps and starting soon, a ResourceSync files.

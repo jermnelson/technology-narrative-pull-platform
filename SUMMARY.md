@@ -1,5 +1,6 @@
 # Summary
 
+* [Introduction](README.md)
 * [What is a Pull Platform?](what-is-a-pull-platform/README.md)
    * [Vanity and Actionable Metrics ](what-is-a-pull-platform/vanity_and_actionable_metrics.md)
    * [Technological Narrative of the Catalog Pull Platform](what-is-a-pull-platform/technological_narrative_of_the_catalog_pull_platform.md)
@@ -7,14 +8,11 @@
    * [People](sources_of_pull_for_the_catalog_pull_platform/people.md)
    * [Institutions](sources_of_pull_for_the_catalog_pull_platform/institutions.md)
    * [Algorithms](sources_of_pull_for_the_catalog_pull_platform/algorithms.md)
-* [BIBFRAME Linked Data Toolset](bibframe/README.md)
-   * [Converting MARC to BIBFRAME](bibframe/converting_marc_to_bibframe.md)
-   * [BIBFRAME node.js web editor](bibframe/bibframe_nodejs_web_editor.md)
-* [ Schema.org Web Editor](schema_org/README.md)
-* [TIGER Catalog](tiger_catalog/README.md)
-* [The Catalog Pull Platform at Local, Regional, National, and Global Scales](local_regional_nationally_and_global_scales/README.md)
-   * [Producer and Consumer of Local Linked Data](local_regional_nationally_and_global_scales/producer_and_consumer_of_local_linked_data.md)
-   * [Regional Collaboration through Shared Consortially Services](local_regional_nationally_and_global_scales/regional_collaboration_through_shared_consortially_services.md)
-   * [National access to Global audiences through Linked Data](local_regional_nationally_and_global_scales/national_access_to_global_audiences_through_linked_data.md)
+* [Linked Data Toolset](linked-data-toolset/README.md)
+   * [Semantic Server - Converting MARC to BIBFRAME](linked-data-toolset/converting_marc_to_bibframe.md)
+   * [BIBFRAME node.js Web Editor](linked-data-toolset/bibframe_nodejs_web_editor.md)
+   * [Schema.org Web Editor](linked-data-toolset/schema-org-web-editor.md)
+   * [TIGER Catalog](linked-data-toolset/tiger-catalog.md)
+* [The Catalog Pull Platform at Scale](catalog-pull-platform-at-scale/README.md)
 * [References](references/README.md)
 

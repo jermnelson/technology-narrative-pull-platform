@@ -1,12 +1,14 @@
-# Converting MARC records to BIBFRAME Fedora Objects
+### Semantic Server - Converting MARC records to BIBFRAME Fedora Objects
+The core technology project of the Catalog Pull Platform is an open-source semantic server (source code repository available at <https://github.com/jermnelson/semantic-server>) that includes a MARC-to-BIBFRAME ingester and a REST api for use by web applications as well as supporting different data storage options like Redis, Mongo DB, and now increasingly using Fedora 4. Applications that use the semantic server do not need to know the specifics of how bibliographic data is stored or queried, only that the REST api can retrieve, modify, or remove all types of MARC21, BIBFRAME, FRBR/RDA, or Schema.org metadata about a target resource.
 
-## Important Pivots in Iterative Development
+#### Development History of the Semantic Server
 
 The first experiments with creating a BIBFRAME catalog started with using Django for the web front-end and the NoSQL Redis datastore to store information on BIBFRAME entities. An example of this minimum viable product of catalog is still accessible at <http://tuttdemo.coloradocollege.edu/> as a "discovery app" borrowing the look of a commercial discovery layer with three sources of records; MARC records from random selection of  libraries in the Colorado Alliance of Research Libraries consortium, MODS records harvested from Tutt Library's digital repository, and over 45,000 RDF XML records from Project Gutenberg. All three sources of records were converted to BIBFRAME key-values in Redis using custom Python code that made a lot of modeling and mapping assumptions that were changed or dropped as the BIBFRAME model and vocabulary matured.
 
-Redis to MongoDB to Fedora 4
+In keeping with a pull platform philosophical approach, these early experiments with creating bibliographic discovery layers and catalogs using Redis, BIBFRAME, and Django demonstrated the problems with too closely coupled software in an environmentt of sometimes rapid changes in requirements and technology. By separating out the underlying data storage from the front-end application, the Catalog Pull Platform is better able to support different HTML and Native user interface frameworks and elements.
 
-## Current MARC-to-BIBFRAME Process
+
+#### Current MARC-to-BIBFRAME Process
 
 The first step in converting MARC records to BIBFRAME Fedora Objects is adding each MARC records as separate datastreams in a Fedora4 repository. In the first iteration of the MARC Fedora4 repository, each MARC fedora object RDFS label was the identification key from Colorado College's legacy integrated library system and was the only non-default triple to be stored with Fedora metadata.
 
