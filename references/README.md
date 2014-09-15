@@ -3,6 +3,8 @@ Bibliography: A Bibliographic Framework for the Digital Age. Washington (DC): Li
 
 Bibliography: Allen, N. 2014. Academic Commons: an important resource to DU community. Emailed report.
 
+Bibliography: Cmor, D. Litwin,R. 2014. Should we retire the catalog? Reference & User Services Quarterly; Spring2014, Vol. 53 Issue 3, p213-216, 4p
+
 Bibliography: Dempsey, L. 2012. Two things prompted by a new website: space as a service and full library discovery. Accessed at <http://orweblog.oclc.org/archives/002202.html>
 
 Bibliography: Breeding, M. 2012. Automation Marketplace 2012: Agents of Change. Accessed at <http://www.thedigitalshift.com/2012/03/ils/automation-marketplace-2012-agents-of-change/>
