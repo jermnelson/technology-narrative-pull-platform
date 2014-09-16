@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 # Simplifying and De-coupling Library Technology
 
 Technology conventions using JSON Linked Data,
