@@ -1,11 +1,12 @@
-# Summary
+# Summary for *Technological Narrative for a Library Catalog*
 
 * [Introduction](README.md)
 * [Discovery as a Marketing Distraction](discovery-as-a-marketing-distraction/intro.md)
    * [Increasing Value of Metadata](discovery-as-a-marketing-distraction/value-of-metadata.md)
    * [Lessons from Aristotle Discovery Layer Development](discovery-as-a-marketing-distraction/aristotle-discovery-layer.md)
    * [A Radical Proposition](discovery-as-a-marketing-distraction/a-radical-proposition.md)
-* [Library Apps to a Catalog](library-apps-to-a-catalog/intro.md)
+   * [Reclaim the Catalog](discovery-as-a-marketing-distraction/reclaim-the-catalog.md)
+* [Library Apps to a new Library Catalog](library-apps-to-a-catalog/intro.md)
    * [Aristotle Library Apps](library-apps-to-a-catalog/aristotle-discovery-apps.md)
    * [Colorado College Electronic Thesis and Dataset Application](library-apps-to-a-catalog/ccetd.md)
    * [MARC Batch App](library-apps-to-a-catalog/marc-batch-app.md)
@@ -13,4 +14,6 @@
    * [BIBFRAME Demonstrations](library-apps-to-a-catalog/bibframe-demonstrations.md)
    * [Reimagining the TIGER Catalog](library-apps-to-a-catalog/reimagining-the-tiger-catalog.md)
 * [Simplifying and Decoupling Library Systems](simplifying-and-decoupling-library-systems/intro.md)
+   * [BIBFRAME node.js web editor](simplifying-and-decoupling-library-systems/bibframe_nodejs_web_editor.md)
+   * [Schema.org Web Editor](simplifying-and-decoupling-library-systems/schema-org-web-editor.md)
 * [References](references/README.md)
