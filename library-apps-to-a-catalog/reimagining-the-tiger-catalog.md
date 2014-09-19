@@ -2,7 +2,20 @@
 The [TIGER](http://catalog.coloradocollege.edu/) catalog is the iterative
 developed, minimum viable product, that consumes and publishes BIBFRAME and
 Schema.org descriptive RDF graphs of Colorado College's intellectual and culture
-artifacts.
+artifacts. In their article on library Linked Open Data in implementing 
+systems, Rurik Greenall and Lukas Koster list three reasons why libraries may 
+adopt Linked Open Data:
+
+* Exposing or publishing their own data as Linked Open Data for other organizations and individuals to consume.
+* Consuming and re-using Linked Open Data from external sources as a way to enrich and enhance their own data
+* Using Linked Open Data for a "completely new vendor-independent, Web-based
+infrastructure and workflow for cataloguing"
+(Greenall, Koster 2014)
+
+In this first iteration of the TIGER catalog , Greenall's and Koster's first two reasons
+ for adopting Linked Open Data. The flexibility of using library Linked Data vocabularies
+allowed Tutt Library staff to begin the exploring the potential of linked data as an library 
+operational infrastructure for collecting and managing a library's collection. 
 
 Part of the ingestion linked-data workflow for converting MARC21
 records to BIBFRAME graphs leverages various local and national linked-data
@@ -23,6 +36,7 @@ being preformed through a Solr index of the MARC record, an approach borrowed
 from existing Discovery layers as well as the Aristotle Discovery Layer. The
 catalog was publicly released in April 2014 at <http://catalog.coloradocollge.edu>.
 
+
 Measuring the usage of the catalog involved both custom code that saves query
 information and what was returned from result set. Cover Art was harvested from
 commercial sources and additional information from OpenLibrary record. Two sources
@@ -32,7 +46,7 @@ the use of Redis bitstrings, a popular approach for using analytics in Redis[NEE
 to store usage data. This data hinted at the potential that a library's catalog
 could be more adaptive and responsive to a patron's information searches.
 
-The main learning outcome for this first iteration was demostrating the viability
+The main learning outcome for this first iteration was demonstrating the viability
 of using modern NoSQL and web frameworks to build a working MARC21-based catalog
 with a modern user interface. This iteration's support for BIBFRAME or other library
 linked-data was minimal, mainly in providing supporting structures for the user

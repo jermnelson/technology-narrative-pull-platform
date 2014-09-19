@@ -1,4 +1,4 @@
-# A Radical Proposition
+### A Radical Proposition
 
 Although that might now have been the intentions of either Cmor or Litwin in
 their debate on retiring the library catalog, there is another alternative to

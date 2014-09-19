@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
 * [Discovery as a Marketing Distraction](discovery-as-a-marketing-distraction/intro.md)
-   * [Increasing Value of Metadata](discovery-as-a-marketing-distraction/value-of-metadata.md)
    * [Lessons from Aristotle Discovery Layer Development](discovery-as-a-marketing-distraction/aristotle-discovery-layer.md)
    * [A Radical Proposition](discovery-as-a-marketing-distraction/a-radical-proposition.md)
    * [Reclaim the Catalog](discovery-as-a-marketing-distraction/reclaim-the-catalog.md)

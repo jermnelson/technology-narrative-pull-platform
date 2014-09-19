@@ -1,4 +1,4 @@
-## Aristotle Library Apps
+## Aristotle Library Apps to a new TIGER Catalog
 
 With the success of the Aristotle Discovery Layer built using Django and Solr,
 the Tutt Library started examining other areas where the library could leverage

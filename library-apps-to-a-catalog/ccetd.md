@@ -1,4 +1,4 @@
-# Colorado College Electronic Thesis and Dataset App
+### Colorado College Electronic Thesis and Dataset App
 
 The most visible and actively developed application built and supported by
 Tutt Library is a web-based authentication and form submission for senior
