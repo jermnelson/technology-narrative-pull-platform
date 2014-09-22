@@ -19,6 +19,9 @@ Bibliography: Hagel, J. Brown, J. Davison, L. 2010. The power of pull: How small
 
 Bibliography: Hagel, J. 2012. Pull Platforms for Performance. Accessed at <http://edgeperspectives.typepad.com/edge_perspectives/2012/02/pull-platforms-for-performance.html>
 
+Bibliography:  Kortekaas, S. 2012. Thinking the unthinkable: a library without a catalogue — Reconsidering the future of discovery tools for Utrecht University library.
+LIBER General Annual Conference. Accessed at <http://libereurope.eu/news/thinking-the-unthinkable-a-library-without-a-catalogue-reconsidering-the-future-of-discovery-tools-for-utrecht-university-library/>
+
 Bibliography: Ries, E. 2011. The Lean Startup. New York (NY): Crown Business. p. 294.
 
 Bibliography: Schreur, P. 2014. AV Modeling Study. Accessed at <http://listserv.loc.gov/cgi-bin/wa?A2=ind1408&L=bibframe&T=0&P=9316>.
@@ -26,3 +29,5 @@ Bibliography: Schreur, P. 2014. AV Modeling Study. Accessed at <http://listserv.
 Bibliography: Schmidt, A. 2013. Catalog by Design. Accessed at <http://www.walkingpaper.org/5979>
 
 Bibliography: Schmidt, A. 2014. Give Them What They Want. Accessed at <http://lj.libraryjournal.com/2014/04/opinion/aaron-schmidt/give-them-what-they-want-the-user-experience/> 
+
+Bibliography: Viviano, A. 2014. The Lean UX Manifesto: Principle-Driven Design. Smashing Magazine. Access at <http://www.smashingmagazine.com/2014/01/08/lean-ux-manifesto-principle-driven-design/>

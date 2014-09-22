@@ -6,4 +6,5 @@ staff to accomplish tasks that were extremely time-consoming in the old version
 of Islandora (moving an entire collection of objects from one collection to
 another) or difficult (create stub records of common metadata for an entire collection
 of Fedora Objects).
-production version of the
+
+<img src="/static/img/ala-fedora-utilities.png" width="640px" height="480px">

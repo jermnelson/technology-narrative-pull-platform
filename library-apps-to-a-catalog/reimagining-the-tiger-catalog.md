@@ -12,22 +12,21 @@ adopt Linked Open Data:
 infrastructure and workflow for cataloguing"
 (Greenall, Koster 2014)
 
-In this first iteration of the TIGER catalog , Greenall's and Koster's first two reasons
- for adopting Linked Open Data. The flexibility of using library Linked Data vocabularies
-allowed Tutt Library staff to begin the exploring the potential of linked data as an library 
-operational infrastructure for collecting and managing a library's collection. 
-
-Part of the ingestion linked-data workflow for converting MARC21
-records to BIBFRAME graphs leverages various local and national linked-data
-sources like the Library of Congress, OCLC, DBPedia, among others, for enriching
-and enhancing the existing graphs. This exemplar catalog demonstrates the concepts
-and components in the Catalog Pull Platform by using the MARC-to-BIBFRAME
-ingesters, converting  of the semantic server project and is based on the
-design concepts articulated by Aaron Schmidt in a blog post (Schmidt, 2013). The
+In this first iteration of the TIGER catalog uses Greenall's and Koster's first two reasons
+for adopting Linked Open Data as a broad design goals.  
+The front-end user interface is based on the
+design concepts articulated by Aaron Schmidt in a blog post (Schmidt, 2013) and uses
+Bootstrap, Knockout.js, and jQuery with the server implemented using the Python 
+web microframework Flask. The
 source code for the GPLv2 licensed catalog is available on Github at
 <https://github.com/Tutt-Library/tiger-catalog>.
 
 #### Build-Measure-Learn - Iteration One
+
+<img src="/static/img/tiger-catalog-iteration-1.png" width="640px" height="480px">
+
+*Screenshot from <http://catalog.coloradocollege.edu/>*
+
 The first public minimal viable product of the TIGER Catalog implemented a
 native MARC21 semantic datastore using Redis, Solr, and MongoDB along with
 limited BIBFRAME entity support. Tutt Library's MARC records were serialized
@@ -51,7 +50,7 @@ of using modern NoSQL and web frameworks to build a working MARC21-based catalog
 with a modern user interface. This iteration's support for BIBFRAME or other library
 linked-data was minimal, mainly in providing supporting structures for the user
 interface's cover art. This iteration also succeeded in evaluating the utility of
-MongoDB's JSON document approach for data storage
+MongoDB's JSON document approach for data storage.
 
 #### Build-Measure-Learn - Iteration Two
 The second iteration of the MVP is switching to Fedora4 as the primary data
@@ -81,8 +80,11 @@ triples associated with the object:
 4. The BIBFRAME graph is then decomposed into separate RDF graphs for each subject.
 5. Finally, each subject's BIBFRAME RDF graph is saved to Fedora 4 using a REST API.
 
-There a number of issues with this multiple-step process, starting with the slow conversion process that even at its best, only converts a few hundred MARC records per minute.
-The second issue is that the current MARC-to-BIBFRAME conversion produces a large number of RDF graphs per MARC record (anywhere from 30-70) that requires a primitive de-duplication service using Fedora 4 SPARQL queries on the existing BIBFRAME Fedora object's authorizedAccessPoint, name, or RDF label.
+There a number of issues with this multiple-step process, starting with the slow 
+conversion process that even at its best, only converts a few hundred MARC records per minute.
+The second issue is that the current MARC-to-BIBFRAME conversion produces a large number of 
+RDF graphs per MARC record (anywhere from 30-70) that requires a primitive de-duplication service 
+using Fedora 4 SPARQL queries on the existing BIBFRAME Fedora object's authorizedAccessPoint, name, or RDF label.
 
 The next iteration of this tool will look at extending existing Fedora 4 functionality so that the entire conversion process from MARC21 to BIBFRAME RDF graphs occurs within a native Java process in Fedora.
 

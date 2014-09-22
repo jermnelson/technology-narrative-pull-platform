@@ -20,13 +20,13 @@ article = Flask(__name__)
 @article.route("/")
 def index():
     ## raw_article = open('README.md').read()
-    raw_article = ''
-    summary = open('SUMMARY.md').read()
-    for row in summary.splitlines():
-        result = filepath_re.search(row)
-        if result is not None:
-            filename = result.groups()[0]
-            raw_article += open(filename).read()
+    raw_article = open('content.md').read()
+##    summary = open('SUMMARY.md').read()
+##    for row in summary.splitlines():
+##        result = filepath_re.search(row)
+##        if result is not None:
+##            filename = result.groups()[0]
+##            raw_article += open(filename).read()
     return markdown.markdown(raw_article)
 
 def main():
